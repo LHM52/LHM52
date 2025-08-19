@@ -27,7 +27,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LHM52&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/LHM52/LHM52/output/pacman-contribution-graph.svg" alt="pacman graph" height="200">
+
 </div>
 
 ###
