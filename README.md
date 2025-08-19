@@ -26,12 +26,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LHM52/LHM52/output/pacman-contribution-graph.svg" alt="pacman graph" height="200">
-
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LHM52/LHM52/output/pacman-contribution-graph-dark.svg">
