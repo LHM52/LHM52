@@ -6,7 +6,7 @@
 
 <h3 align="center">
   공부중
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=500&color=F7F7F7&random=true&lines=%EA%B3%B5%EB%B6%80%EC%A4%91..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=F7F7F7&random=true&lines=.+.+." alt="Typing SVG" /></a>
 </h3>
 
 
