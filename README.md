@@ -4,10 +4,7 @@
 
 ###
 
-<h3 align="center">
-  공부중
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=4&pause=500&color=F7F7F7&random=true&width=50&lines=.+.+." alt="Typing SVG" /></a>
-</h3>
+<h3 align="center">공부중...</h3>
 
 
 
