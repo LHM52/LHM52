@@ -9,9 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="10" />
@@ -19,9 +19,9 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="10" />
-   <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
 </div>
 
 
