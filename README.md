@@ -4,7 +4,10 @@
 
 ###
 
-<h3 align="center">공부중...</h3>
+<h3 align="center">
+  공부중
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=500&color=F7F7F7&random=true&lines=.+.+.)](https://git.io/typing-svg)
+</h3>
 
 ###
 
